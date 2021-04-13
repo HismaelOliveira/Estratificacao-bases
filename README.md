@@ -4,7 +4,7 @@ This python file uses the *Kmeans algorithm to stratify samples of a database*. 
 
 T**he stratification is based on distribution of clusters**. For example, if we have 20% of entries in the cluster A, the stratified samples will have nearly 20% of entries of the cluster A.
 
-For the tuning of cluster' numbers we use the *Elbow Method.* The algorithm also realizes the *automatic tranformation of categorical and datetime data to integer numbers and normalization of data*.
+For the tuning of cluster' numbers we use the *Elbow Method.* The algorithm also realizes the *automatic tranformation of categorical and datetime data to integer numbers and also normalization of data*.
 
 ## Normalization
 
