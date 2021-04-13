@@ -1,2 +1,2 @@
 # Estratificacao-bases
-Utilização do K-means como m~etodo para estratificação de bases.
+Utilização do K-means como método para estratificação de bases.
